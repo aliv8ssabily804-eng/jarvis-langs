@@ -1,0 +1,18 @@
+{
+  "python": {
+    "name": "Python",
+    "name_fa": "پایتون",
+    "extensions": [".py", ".pyw"],
+    "marker": "python",
+    "notes": "نسخه‌ی 3.12: از match/case هم پشتیبانی می‌کنه.",
+    "uses": "هوش مصنوعی، تحلیل داده، وب"
+  },
+  "javascript": {
+    "name": "JavaScript",
+    "name_fa": "جاوااسکریپت",
+    "extensions": [".js", ".mjs"],
+    "marker": "javascript",
+    "notes": "از ES2024 پشتیبانی می‌کنه.",
+    "uses": "وب، Node.js"
+  }
+}
